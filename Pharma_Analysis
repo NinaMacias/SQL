@@ -73,7 +73,7 @@ VALUES
     (25, 'Glumara', 13901234);
 
 
-***** Which medications has Dr. Garcia prescribed? The following query confirmed that Dr. Garcia has perscribed Floopoxetine, Zonkify, Xanatab, and Glumara.
+### Query#1 - Which medications has Dr. Garcia prescribed? The following query confirmed that Dr. Garcia has perscribed Floopoxetine, Zonkify, Xanatab, and Glumara.
 
 SELECT distinct
 scripts.doctor_name
